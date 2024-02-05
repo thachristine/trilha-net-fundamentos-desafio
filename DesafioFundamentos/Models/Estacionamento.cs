@@ -59,7 +59,10 @@ while (exibirMenu)
 
 Console.WriteLine("O programa se encerrou");
 
+
+
 // implementando a classe `Estacionamento`, responsável por gerenciar os veículos estacionados. 
+
 
 namespace DesafioFundamentos.Models
 {
